@@ -5,9 +5,14 @@
   <h2 align="center"> 🎇🎇🎇🎇🎇🎇🎇🎉🎉🎉🎉🎉🎉🎉🎇🎇🎇🎇🎇🎇🎇 </h2>
   
   <div style="align:center"> 
-   <h1 align="center"> 
-     <img src= https://github-readme-stats.vercel.app/api?username=PunPunyawat&theme=radical&show_icons=true > </h1>
+    <h1 align="center"> 
+     <img src= https://github-readme-stats.vercel.app/api?username=PunPunyawat&theme=radical&show_icons=true > 
+     <img src = https://github-readme-stats.vercel.app/api/top-langs/?username=PunPunyawat&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical width=25%>
+    </h1>
   </div>
+  
+  
+<h1 align="center">
   
   <div style="align:center"> 
    <h1 align="center"> 
